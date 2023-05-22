@@ -4,3 +4,4 @@
 - [x] Number
 - [x] Boolean
 - [x] String
+- [x] Variable
