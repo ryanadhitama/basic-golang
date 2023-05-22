@@ -1,3 +1,3 @@
 # Basic Golang
 
-[x] Hello World
+- [x] Hello World
