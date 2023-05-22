@@ -5,3 +5,4 @@
 - [x] Boolean
 - [x] String
 - [x] Variable
+- [x] Constant
