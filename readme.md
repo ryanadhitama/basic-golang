@@ -13,3 +13,4 @@
 - [x] Boolean Operation
 - [x] Array
 - [x] Slice
+- [x] Map
