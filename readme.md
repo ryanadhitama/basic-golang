@@ -10,3 +10,4 @@
 - [x] Type Declaration
 - [x] Math Operation
 - [x] Comparison Operation
+- [x] Boolean Operation
