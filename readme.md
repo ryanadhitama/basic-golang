@@ -7,3 +7,9 @@
 - [x] Variable
 - [x] Constant
 - [x] Convert Data Type
+- [x] Type Declaration
+- [x] Math Operation
+- [x] Comparison Operation
+- [x] Boolean Operation
+- [x] Array
+- [x] Slice
