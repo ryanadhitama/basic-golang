@@ -9,3 +9,4 @@
 - [x] Convert Data Type
 - [x] Type Declaration
 - [x] Math Operation
+- [x] Comparison Operation
