@@ -18,6 +18,13 @@
 - [x] Switch Expression
 - [x] For Loop
 - [x] Break Continue
-- [x] Function
-- [x] Function Parameter
-- [x] Function Return Value
+- [x] Fun
+- [x] Fun Parameter
+- [x] Fun Return Value
+- [x] Fun Return Multiple Value
+- [ ] Fun Named Return Value
+- [ ] Variadic Function
+- [ ] Fun Value
+- [ ] Fun as Parameter
+- [ ] Anonymous Function
+- [ ] Recursive Function
