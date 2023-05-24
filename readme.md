@@ -22,7 +22,7 @@
 - [x] Fun Parameter
 - [x] Fun Return Value
 - [x] Fun Return Multiple Value
-- [ ] Fun Named Return Value
+- [x] Fun Named Return Value
 - [ ] Variadic Function
 - [ ] Fun Value
 - [ ] Fun as Parameter
