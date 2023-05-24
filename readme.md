@@ -14,3 +14,10 @@
 - [x] Array
 - [x] Slice
 - [x] Map
+- [x] If Expression
+- [x] Switch Expression
+- [x] For Loop
+- [x] Break Continue
+- [x] Function
+- [x] Function Parameter
+- [x] Function Return Value
