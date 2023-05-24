@@ -25,6 +25,6 @@
 - [x] Fun Named Return Value
 - [x] Variadic Function
 - [x] Fun Value
-- [ ] Fun as Parameter
+- [x] Fun as Parameter
 - [ ] Anonymous Function
 - [ ] Recursive Function
