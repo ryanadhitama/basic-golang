@@ -18,3 +18,4 @@
 - [x] Switch Expression
 - [x] For Loop
 - [x] Break Continue
+- [x] Function
