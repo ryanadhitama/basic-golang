@@ -16,3 +16,4 @@
 - [x] Map
 - [x] If Expression
 - [x] Switch Expression
+- [x] For Loop
