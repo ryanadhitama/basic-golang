@@ -28,3 +28,10 @@
 - [x] Fun as Parameter
 - [x] Anonymous Function
 - [x] Recursive Function
+- [ ] Closure
+- [ ] Defer, Panic, Recover
+- [ ] Comment
+- [ ] Struct
+- [ ] Struct Method
+- [ ] Interface
+- [ ] Interface Kosong
