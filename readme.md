@@ -31,7 +31,7 @@
 - [x] Closure
 - [x] Defer
 - [x] Panic
-- [ ] Recover
+- [x] Recover
 - [ ] Comment
 - [ ] Struct
 - [ ] Struct Method
