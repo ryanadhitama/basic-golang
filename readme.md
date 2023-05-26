@@ -29,7 +29,9 @@
 - [x] Anonymous Function
 - [x] Recursive Function
 - [x] Closure
-- [ ] Defer, Panic, Recover
+- [x] Defer
+- [ ] Panic
+- [ ] Recover
 - [ ] Comment
 - [ ] Struct
 - [ ] Struct Method
