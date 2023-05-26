@@ -30,7 +30,7 @@
 - [x] Recursive Function
 - [x] Closure
 - [x] Defer
-- [ ] Panic
+- [x] Panic
 - [ ] Recover
 - [ ] Comment
 - [ ] Struct
