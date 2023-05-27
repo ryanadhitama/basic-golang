@@ -33,7 +33,7 @@
 - [x] Panic
 - [x] Recover
 - [x] Comment
-- [ ] Struct
+- [x] Struct
 - [ ] Struct Method
 - [ ] Interface
 - [ ] Interface Kosong
