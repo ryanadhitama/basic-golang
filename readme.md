@@ -35,5 +35,5 @@
 - [x] Comment
 - [x] Struct
 - [x] Struct Method
-- [ ] Interface
-- [ ] Interface Kosong
+- [x] Interface
+- [ ] Null Interface
