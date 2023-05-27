@@ -32,7 +32,7 @@
 - [x] Defer
 - [x] Panic
 - [x] Recover
-- [ ] Comment
+- [x] Comment
 - [ ] Struct
 - [ ] Struct Method
 - [ ] Interface
