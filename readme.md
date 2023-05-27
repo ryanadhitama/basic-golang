@@ -34,6 +34,6 @@
 - [x] Recover
 - [x] Comment
 - [x] Struct
-- [ ] Struct Method
+- [x] Struct Method
 - [ ] Interface
 - [ ] Interface Kosong
