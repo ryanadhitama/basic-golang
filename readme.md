@@ -36,4 +36,4 @@
 - [x] Struct
 - [x] Struct Method
 - [x] Interface
-- [ ] Null Interface
+- [x] Null Interface
