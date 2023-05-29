@@ -38,3 +38,4 @@
 - [x] Interface
 - [x] Null Interface
 - [x] Nil
+- [x] Error
