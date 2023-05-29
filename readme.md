@@ -39,3 +39,4 @@
 - [x] Null Interface
 - [x] Nil
 - [x] Error
+- [x] Type assertions
