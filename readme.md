@@ -42,3 +42,4 @@
 - [x] Type assertions
 - [x] Pointer
 - [x] Pointer at Function
+- [x] Pointer at Method
