@@ -44,3 +44,4 @@
 - [x] Pointer at Function
 - [x] Pointer at Method
 - [x] Import Package
+- [x] Access modifier
