@@ -45,3 +45,4 @@
 - [x] Pointer at Method
 - [x] Import Package
 - [x] Access modifier
+- [x] Package Initialization
