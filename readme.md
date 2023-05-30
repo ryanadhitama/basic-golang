@@ -40,3 +40,5 @@
 - [x] Nil
 - [x] Error
 - [x] Type assertions
+- [x] Pointer
+- [x] Pointer at Function
