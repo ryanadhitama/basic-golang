@@ -48,3 +48,4 @@
 - [x] Package Initialization
 - [x] Package OS
 - [x] Package Flag
+- [x] Package Strings
