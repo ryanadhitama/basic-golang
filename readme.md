@@ -47,3 +47,4 @@
 - [x] Access modifier
 - [x] Package Initialization
 - [x] Package OS
+- [x] Package Flag
