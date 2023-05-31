@@ -49,3 +49,4 @@
 - [x] Package OS
 - [x] Package Flag
 - [x] Package Strings
+- [x] Package Strconv
