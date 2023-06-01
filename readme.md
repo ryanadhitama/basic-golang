@@ -32,8 +32,23 @@
 - [x] Defer
 - [x] Panic
 - [x] Recover
-- [ ] Comment
-- [ ] Struct
-- [ ] Struct Method
-- [ ] Interface
-- [ ] Interface Kosong
+- [x] Comment
+- [x] Struct
+- [x] Struct Method
+- [x] Interface
+- [x] Null Interface
+- [x] Nil
+- [x] Error
+- [x] Type assertions
+- [x] Pointer
+- [x] Pointer at Function
+- [x] Pointer at Method
+- [x] Import Package
+- [x] Access modifier
+- [x] Package Initialization
+- [x] Package OS
+- [x] Package Flag
+- [x] Package Strings
+- [x] Package Strconv
+- [x] Package Math
+- [x] Package Container List
