@@ -50,3 +50,4 @@
 - [x] Package Flag
 - [x] Package Strings
 - [x] Package Strconv
+- [x] Package Math
