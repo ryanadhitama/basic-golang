@@ -56,3 +56,4 @@
 - [x] Sort
 - [x] Time
 - [x] Reflect
+- [x] Regex
